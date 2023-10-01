@@ -4,7 +4,6 @@
 Nama    : Fadhlurohman Fatikh Navintino
 NIM     : 312210368
 Kelas   : TI.22.A4
-
 ```
 
 ## **Instruksi Praktikum**
@@ -18,7 +17,7 @@ Kelas   : TI.22.A4
 ## **Langkah-langkah Praktikum**
 
 1. Buka VSCode
-   ![img](image/VSC.png)
+![img](image/VSC.png)
 
 2.buat file dengan nama **lab1_tag_dasar.html**
 ![img](image/File%20Name.png)
@@ -38,7 +37,7 @@ Kelas   : TI.22.A4
 ```
 
 4. buka file dengan web browser
-   ![img](image/Web%20File%20Blank.png)
+![img](image/Web%20File%20Blank.png)
 
 5. Membuat Paragraf
 
@@ -63,7 +62,7 @@ Kelas   : TI.22.A4
 ```
 
 _OUTPUT_
-![img](img/web2.png)
+![img](image/Buat%20Paragraf.png)
 
 6. Menambahkan Judul (h)
 
@@ -79,7 +78,7 @@ _OUTPUT_
 ```
 
 _OUTPUT_
-![img](img/web3.png)
+![img](image/Judul.png
 
 7. Memformat teks
 
@@ -95,7 +94,7 @@ _OUTPUT_
 ```
 
 _OUTPUT_
-![img](img/web4.png)
+![img](image/Mark.png)
 
 8. Menambhkan Gambar
 
@@ -113,7 +112,7 @@ _OUTPUT_
 ```
 
 _OUTPUT_
-![img](<img/web5%20(2).png>)
+![img](image/Gambar%20Logo.png)
 
 9. Menambhkan Link Navigasi
 
@@ -130,7 +129,7 @@ _OUTPUT_
    ```
 
    _OUTPUT_
-   ![img](img/web6.png)
+![img](image/Link%20Navigasi.png)
 
    
 ## **Jawab Pertanyaan Berikut**
@@ -158,11 +157,11 @@ _OUTPUT_
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( \_blank, \_self, \_top,
 \_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?  
 **Jawaban:** 
-- blank:
+   - blank:
 Jika Anda mengatur atribut target="_blank", tautan akan dibuka dalam tab atau jendela baru, tergantung pada konfigurasi browser pengguna.
-- self:
+   - self:
 Atribut target="_self" adalah nilai default untuk atribut target. Ini mengarahkan tautan untuk dibuka dalam jendela atau tab saat ini.
-- top:
+   - top:
 Ketika Anda mengatur atribut target="_top", tautan akan membuka halaman yang ditautkan dalam jendela atau tab yang sama seperti blank.
-- parent:
+   - parent:
 Atribut target="_parent" digunakan ketika halaman web Anda terdiri dari bingkai (frame).
