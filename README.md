@@ -78,7 +78,7 @@ _OUTPUT_
 ```
 
 _OUTPUT_
-![img](image/Judul.png
+![img](image/Judul.png)
 
 7. Memformat teks
 
@@ -149,7 +149,7 @@ _OUTPUT_
    **Jawaban:**
    - tag img elemen HTML yang digunakan untuk memberikan informasi tentang gambar.Atribut alt digunakan untuk memberikan teks alternatif yang akan muncul jika gambar tidak dapat ditampilkan.Atribut title digunakan untuk memberikan judul atau keterangan tambahan yang akan muncul saat pengguna mengarahkan kursor mouse ke gambar.
 
-   4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!        
+   - Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!        
    **Jawaban:** 
    - sebaiknya di isi semua, Jika Anda mengisi kedua atribut width dan height dengan nilai yang tepat, gambar akan ditampilkan dengan ukuran yang sesuai. Ini akan mempertahankan proporsionalitas gambar, dengan nilai yg sesuai dengan aspek rasio dari gambar
 
